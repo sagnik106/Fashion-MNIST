@@ -20,4 +20,4 @@ The dataset is taken from the [tensordash.keras.datasets](https://www.tensorflow
 
 ## File Configuration
 * [trainer.ipynb](https://github.com/sagnik106/Fashion-MNIST/blob/master/main.ipynb) - Jupyter notebook which has the analysis of dataset along with the declaration and training of the model
-* [resources/](https://github.com/sagnik106/Dog-Breed-Identification/tree/master/resources) - Github README resources
+* [resources/](https://github.com/sagnik106/Fashion-MNIST/tree/master/resources) - Github README resources
